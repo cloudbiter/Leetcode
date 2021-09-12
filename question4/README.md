@@ -19,6 +19,5 @@
 
 
 
-![结果]
-(leetcode.jpg)
+![结果](leetcode.jpg)
 
