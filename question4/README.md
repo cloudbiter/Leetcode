@@ -1,4 +1,6 @@
-~算法说明：~
+算法解析
+==========
+
 本题更一般的要求是： 求长度分别 为 m 和n 的两个数组中， 第k 小的数是多少？
 已知 两个数组都是有序数组，只需要在两个数组左侧（升序）剔除k-1个数，剩下第k个数就比较两个数组剩余部分最小元素即可，即，比较 nums1'[0] 与 nums2'[0] (注意：这两个数组都是原始数组剔除k-1个元素之后所得的数组)
 
@@ -13,5 +15,5 @@
 
 
 
-![image](https://github.com/cloudbiter/Leetcode/tree/main/question4/leetcode.jpg)
+![结果](question4/leetcode.jpg)
 
